@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 deploy
 ```
-ng deploy --base-href=/test-deploy/ --name=KenGabizon --email=chengabizon95@gmail.com
+ng deploy --base-href=/test-deploy/ --name=KenGabizon --email=chengabizon95@gmail.com --no-silent
 ```
 
 ## Development server
